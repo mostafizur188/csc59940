@@ -1,0 +1,40 @@
+.newclass{
+  background-color:#191970;
+}
+.newclass .navbar-brand{
+  color:white;
+}
+.newclass .nav-item .nav-link{
+  color:gray;
+}
+
+h1{
+  color:#2F5478;
+
+}
+
+h2{
+  color: #191970;
+  font-size: 20px;
+}
+h3{
+  color: #191970;
+  font-size: 20px;
+}
+h4{
+  color: #191970;
+  font-size: 20px;
+}
+.foot{
+  text-align: center;
+  color: white;
+  background-color:black;
+}
+.my-sm-0{
+  color:white;
+  background-color:#32CD32;
+}
+
+.bodyclass{
+  background-color:#E4E4E4;
+}
